@@ -1,5 +1,6 @@
 # scalaPractise-with-VsCode
-my practise code 
+my practise code
+#Metals vscode extention, Scala 2.13.3 Lightbrend 
 >https://www.youtube.com/user/DrMarkCLewis
 
 
