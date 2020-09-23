@@ -7,12 +7,7 @@ object solve2 {
     def main(args: Array[String]){
         val result = readInt()
         result match {
-            case 0 => println(result.toChar)
-            case 1 => println(result.toChar)
-            case 2 => println(result.toChar)
-            case 3 => println(result.toChar)
-            case 4 => println(result.toChar)
-            case 5 => println(result.toChar)
+            case 0 | 1 | 2 | 3 | 4 | 5 => println(result.toChar)
             case _ => println("z")
         }
         
