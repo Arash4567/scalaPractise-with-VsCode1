@@ -73,5 +73,21 @@ object scalaTutorials {
     // val date = new Date
     // val newLog= log(date, _:String)
     // newLog("Uzbekistan")
+
+    /*Sting*/
+    val str1 = "Hello Scala"
+    // val str2 = " World!"
+    // val num1 = 456
+    // val num2 = 321323.13123
+    // println(str1.length())
+    // println(str1.concat(str2))
+    // println(str1 + str2)
+    
+    // val result = printf("(%d -- %f -- %s)", num1, num2, str1)
+    // println(result)
+    // println("(%d -- %f -- %s)".format(num1, num2, str1))
+
+    // println(str1.hashCode())
+
   }
 }
