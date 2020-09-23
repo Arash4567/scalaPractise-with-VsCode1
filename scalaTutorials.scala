@@ -1,5 +1,6 @@
 import scala.io.StdIn._
 // import java.util.Date
+import java.lang.String
 
 object scalaTutorials {
   // object Math {
@@ -88,6 +89,7 @@ object scalaTutorials {
     // println("(%d -- %f -- %s)".format(num1, num2, str1))
 
     // println(str1.hashCode())
+    println(str1.charAt(0))
 
   }
 }
